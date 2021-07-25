@@ -1,2 +1,2 @@
 # Sentiment-analysis-project
-This proect is proposed to analyse sentiment for Tunisian dialect
+In this project it is proposed to analyze sentiment analysis for Tunisian dialect
