@@ -2611,3 +2611,11 @@ a+
 ماهواش
 ماشي
 موشو
+avec
+avez
+avions
+aviez
+autres
+autre
+avoir
+aya
