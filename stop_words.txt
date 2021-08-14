@@ -14,7 +14,6 @@ aal
 aalikom
 ach
 ad
-3ad
 ah
 ahna
 ai
@@ -284,7 +283,6 @@ mele
 meleer
 meléer
 Mella
-mella
 même
 men
 menek
